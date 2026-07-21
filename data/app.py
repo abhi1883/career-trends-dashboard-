@@ -7,7 +7,7 @@ import seaborn as sns
 st.set_page_config(page_title="Career Trends Dashboard", layout="wide")
 
 # Load data
-df = pd.read_csv("ds_salaries_cleaned.csv")
+df = pd.read_csv("data/ds_salaries_cleaned.csv")
 
 # Title
 st.title("📊 Data Science Job & Salary Trends Dashboard")
