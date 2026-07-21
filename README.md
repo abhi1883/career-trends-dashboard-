@@ -51,3 +51,6 @@ career-trends-dashboard-/
 └── README.md
 ## 👤 Author
 Abhinanda Udupa — 3rd Semester Engineering Student
+## 🎯 Project Overview
+## 🌐 Live Demo
+Try the interactive dashboard here: **[abhinanda-career-trends.streamlit.app](https://abhinanda-career-trends.streamlit.app)**
